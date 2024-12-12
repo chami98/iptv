@@ -81,3 +81,13 @@ https://live.peotv.com/bpk-tv/301/output/index.m3u8
 https://live.peotv.com/bpk-tv/220/output/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV Local",test3
 https://live.peotv.com/bpk-tv/241/output/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="PeoTV Sports",Sony Sports 5
+https://live.peotv.com/bpk-tv/037/output/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="PeoTV Sports",Sony Sports 1
+https://live.peotv.com/bpk-tv/038/output/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/220?cb=20230128174436" group-title="PeoTV Sports",Star Sports Select 1
+https://live.peotv.com/bpk-tv/039/output/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835" group-title="PeoTV Sports",Star Sports 2
+https://live.peotv.com/bpk-tv/040/output/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162710" group-title="PeoTV Sports",Star Sports 1
+https://live.peotv.com/bpk-tv/041/output/index.m3u8
