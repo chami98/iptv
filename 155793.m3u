@@ -91,3 +91,35 @@ https://live.peotv.com/bpk-tv/039/output/index.m3u8
 https://live.peotv.com/bpk-tv/040/output/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162710" group-title="PeoTV Sports",Star Sports 1
 https://live.peotv.com/bpk-tv/041/output/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="PeoTV Sports",Ten Cricket
+https://live.peotv.com/bpk-tv/044/output/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-logo="https://medianet.mv/media/channel/187x0-icon.png" group-title="PeoTV Sports",Sony Sports 2 HD
+https://live.peotv.com/bpk-tv/045/output/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="PeoTV Sports",Euro Sports HD
+https://live.peotv.com/bpk-tv/042/output/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2021/11/679-wbg-e.png" group-title="PeoTV Sports",Premier Sports
+https://live.peotv.com/bpk-tv/046/output/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movie",&Flix
+https://live.peotv.com/bpk-tv/034/output/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-logo="https://e7.pngegg.com/pngimages/878/103/png-clipart-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text.png" group-title="Movie",Zee Cinema
+https://live.peotv.com/bpk-tv/076/output/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="https://e7.pngegg.com/pngimages/878/103/png-clipart-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text.png" group-title="Movie",Cinema World
+https://live.peotv.com/bpk-tv/033/output/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-logo="https://www.asiasat.com/sites/default/files/2024-05/NIKKY_CHANNEL_OFFICIAL.jpg" group-title="Kids",Nikky
+https://live.peotv.com/bpk-tv/061/output/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg" group-title="Kids",Cartoon Network HD +
+https://live.peotv.com/bpk-tv/065/output/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-logo="https://e7.pngegg.com/pngimages/972/789/png-clipart-youtube-nickelodeon-logo-nicktoons-nick-jr-amor-television-text.png" group-title="Kids",Nick
+https://live.peotv.com/bpk-tv/060/output/index.m3u8
+#EXTINF:-1 tvg-id="66" tvg-logo="https://e7.pngegg.com/pngimages/790/709/png-clipart-pogo-com-television-channel-logo-others-television-text.png" group-title="Kids",Pogo
+https://live.peotv.com/bpk-tv/066/output/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDC7BPFQwtAQ1hOjFLHqL6JeyfXRY79XFVTw&s" group-title="Kids",CBeebies
+https://live.peotv.com/bpk-tv/062/output/index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-logo="https://w7.pngwing.com/pngs/659/933/png-transparent-babytv-television-channel-fox-international-channels-babyfirst-child-television-child-food.png" group-title="Kids",Baby TV
+https://live.peotv.com/bpk-tv/063/output/index.m3u8
+
+
+
+
+
+
