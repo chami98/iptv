@@ -1,83 +1,83 @@
 #EXTM3U url-tvg=https://live.peotv.com/bpk-tv/epg/xml.gz
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twkwpt.png" group-title="PeoTV",SLT Mobitel
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twkwpt.png" group-title="PeoTV Local",SLT Mobitel
 https://live.peotv.com/bpk-tv/250/output/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png" group-title="PeoTV",Rupawahini
+#EXTINF:-1 tvg-id="2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png" group-title="PeoTV Local",Rupawahini
 https://live.peotv.com/bpk-tv/001/output/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/003.png" group-title="PeoTV",Channel Eye
+#EXTINF:-1 tvg-id="3" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/003.png" group-title="PeoTV Local",Channel Eye
 https://live.peotv.com/bpk-tv/119/output/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/udbacm.png" group-title="PeoTV",Nethra
+#EXTINF:-1 tvg-id="4" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/udbacm.png" group-title="PeoTV Local",Nethra
 https://live.peotv.com/bpk-tv/002/output/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004.png" group-title="PeoTV",ITN
+#EXTINF:-1 tvg-id="5" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004.png" group-title="PeoTV Local",ITN
 https://live.peotv.com/bpk-tv/003/output/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/logos/channel/logos/ngfsik.png" group-title="PeoTV",Vasantham
+#EXTINF:-1 tvg-id="6" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/logos/channel/logos/ngfsik.png" group-title="PeoTV Local",Vasantham
 https://live.peotv.com/bpk-tv/007/output/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/logos/channel/logos/derana.png" group-title="PeoTV",TV Derana
+#EXTINF:-1 tvg-id="7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/logos/channel/logos/derana.png" group-title="PeoTV Local",TV Derana
 https://live.peotv.com/bpk-tv/004/output/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/logos/channel/logos/ddcjju.png" group-title="PeoTV",Swarnawahini
+#EXTINF:-1 tvg-id="8" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/logos/channel/logos/ddcjju.png" group-title="PeoTV Local",Swarnawahini
 https://live.peotv.com/bpk-tv/006/output/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png" group-title="PeoTV",Sirasa
+#EXTINF:-1 tvg-id="9" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png" group-title="PeoTV Local",Sirasa
 https://live.peotv.com/bpk-tv/010/output/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/009.png" group-title="PeoTV",Shakthi
+#EXTINF:-1 tvg-id="10" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/009.png" group-title="PeoTV Local",Shakthi
 https://live.peotv.com/bpk-tv/011/output/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-logo="https://tv1.lk/wp-content/uploads/2023/03/tv1-2.png" group-title="PeoTV",TV 1
+#EXTINF:-1 tvg-id="11" tvg-logo="https://tv1.lk/wp-content/uploads/2023/03/tv1-2.png" group-title="PeoTV Local",TV 1
 https://live.peotv.com/bpk-tv/012/output/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" group-title="PeoTV",Hiru TV
+#EXTINF:-1 tvg-id="12" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" group-title="PeoTV Local",Hiru TV
 https://live.peotv.com/bpk-tv/019/output/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/012.png" group-title="PeoTV",TNL
+#EXTINF:-1 tvg-id="13" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/012.png" group-title="PeoTV Local",TNL
 https://live.peotv.com/bpk-tv/013/output/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/013.png" group-title="PeoTV",ART
+#EXTINF:-1 tvg-id="14" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/013.png" group-title="PeoTV Local",ART
 https://live.peotv.com/bpk-tv/017/output/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-logo="http://24.adaderana.lk/wp-content/uploads/2019/05/272-x-90-1.png" group-title="PeoTV",Ada Derana
+#EXTINF:-1 tvg-id="15" tvg-logo="http://24.adaderana.lk/wp-content/uploads/2019/05/272-x-90-1.png" group-title="PeoTV Local",Ada Derana
 https://live.peotv.com/bpk-tv/014/output/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="PeoTV",Siyatha TV
+#EXTINF:-1 tvg-id="16" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="PeoTV Local",Siyatha TV
 https://live.peotv.com/bpk-tv/021/output/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/016.png" group-title="PeoTV",Haritha TV
+#EXTINF:-1 tvg-id="17" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/016.png" group-title="PeoTV Local",Haritha TV
 https://live.peotv.com/bpk-tv/009/output/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/017.png" group-title="PeoTV",TV Didula
+#EXTINF:-1 tvg-id="18" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/017.png" group-title="PeoTV Local",TV Didula
 https://live.peotv.com/bpk-tv/117/output/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/118.png" group-title="PeoTV",Supream TV
+#EXTINF:-1 tvg-id="19" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/118.png" group-title="PeoTV Local",Supream TV
 https://live.peotv.com/bpk-tv/140/output/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/021.png" group-title="PeoTV",RSL
+#EXTINF:-1 tvg-id="20" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/021.png" group-title="PeoTV Local",RSL
 https://live.peotv.com/bpk-tv/022/output/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/029.png" group-title="PeoTV",Pragna TV
+#EXTINF:-1 tvg-id="21" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/029.png" group-title="PeoTV Local",Pragna TV
 https://live.peotv.com/bpk-tv/112/output/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/028.png" group-title="PeoTV",Damsathara TV
+#EXTINF:-1 tvg-id="22" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/028.png" group-title="PeoTV Local",Damsathara TV
 https://live.peotv.com/bpk-tv/126/output/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/4/Jayatv.png" group-title="PeoTV",Jaya TV
+#EXTINF:-1 tvg-id="23" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/4/Jayatv.png" group-title="PeoTV Local",Jaya TV
 https://live.peotv.com/bpk-tv/094/output/index.m3u8
-#EXTINF:-1 tvg-id="24" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/the-buddhist.png" group-title="PeoTV",Budhdhist
+#EXTINF:-1 tvg-id="24" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/the-buddhist.png" group-title="PeoTV Local",Budhdhist
 https://live.peotv.com/bpk-tv/096/output/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/027.png" group-title="PeoTV",Shradhdha TV
+#EXTINF:-1 tvg-id="25" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/027.png" group-title="PeoTV Local",Shradhdha TV
 https://live.peotv.com/bpk-tv/099/output/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/030.png" group-title="PeoTV",God TV
+#EXTINF:-1 tvg-id="33" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/030.png" group-title="PeoTV Local",God TV
 https://live.peotv.com/bpk-tv/097/output/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-logo="https://i0.wp.com/www.charanatv.lk/wp-content/uploads/2021/08/CHARANA-LOGO.png?fit=271%2C300&ssl=1" group-title="PeoTV",Charana TV
+#EXTINF:-1 tvg-id="34" tvg-logo="https://i0.wp.com/www.charanatv.lk/wp-content/uploads/2021/08/CHARANA-LOGO.png?fit=271%2C300&ssl=1" group-title="PeoTV Local",Charana TV
 https://live.peotv.com/bpk-tv/005/output/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/parliament-channel.png" group-title="PeoTV",Parliment TV
+#EXTINF:-1 tvg-id="72" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/parliament-channel.png" group-title="PeoTV Local",Parliment TV
 https://live.peotv.com/bpk-tv/091/output/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-logo="https://i.imgur.com/jZaOFxI.png" group-title="PeoTV",Meth TV
+#EXTINF:-1 tvg-id="80" tvg-logo="https://i.imgur.com/jZaOFxI.png" group-title="PeoTV Local",Meth TV
 https://live.peotv.com/bpk-tv/111/output/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-logo="https://scontent.fcmb11-1.fna.fbcdn.net/v/t39.30808-6/435282124_122138109506145741_3532422513737474601_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sqXfIOip-eMQ7kNvgFtcETG&_nc_zt=23&_nc_ht=scontent.fcmb11-1.fna&_nc_gid=AMAXziSgu3usOGXf9dtnIzQ&oh=00_AYD7sZdLm6kT__1v8ASW7Fc4PUpwySSPyucOI-HlOVuHtQ&oe=675DB443" group-title="PeoTV",Karma TV
+#EXTINF:-1 tvg-id="81" tvg-logo="https://scontent.fcmb11-1.fna.fbcdn.net/v/t39.30808-6/435282124_122138109506145741_3532422513737474601_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sqXfIOip-eMQ7kNvgFtcETG&_nc_zt=23&_nc_ht=scontent.fcmb11-1.fna&_nc_gid=AMAXziSgu3usOGXf9dtnIzQ&oh=00_AYD7sZdLm6kT__1v8ASW7Fc4PUpwySSPyucOI-HlOVuHtQ&oe=675DB443" group-title="PeoTV Local",Karma TV
 https://live.peotv.com/bpk-tv/113/output/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/115-Sathi%20TV.jpg" group-title="PeoTV",Sathi TV
+#EXTINF:-1 tvg-id="82" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/115-Sathi%20TV.jpg" group-title="PeoTV Local",Sathi TV
 https://live.peotv.com/bpk-tv/115/output/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/118-ThinethaTV.png" group-title="PeoTV",Thinetha TV
+#EXTINF:-1 tvg-id="83" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/118-ThinethaTV.png" group-title="PeoTV Local",Thinetha TV
 https://live.peotv.com/bpk-tv/118/output/index.m3u8
-#EXTINF:-1 tvg-id="90" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/pgldcz.png" group-title="PeoTV",English Club TV
+#EXTINF:-1 tvg-id="90" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/pgldcz.png" group-title="PeoTV Local",English Club TV
 https://live.peotv.com/bpk-tv/190/output/index.m3u8
-#EXTINF:-1 tvg-id="91" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/205-Videsa3-5.jpg" group-title="PeoTV",Videsa 3-5
+#EXTINF:-1 tvg-id="91" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/205-Videsa3-5.jpg" group-title="PeoTV Local",Videsa 3-5
 https://live.peotv.com/bpk-tv/205/output/index.m3u8
-#EXTINF:-1 tvg-id="92" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/mtsiod.png" group-title="PeoTV",Videsa 6-8
+#EXTINF:-1 tvg-id="92" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/mtsiod.png" group-title="PeoTV Local",Videsa 6-8
 https://live.peotv.com/bpk-tv/208/output/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/olxxcx.png" group-title="PeoTV",Videsa 9-11
+#EXTINF:-1 tvg-id="93" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/olxxcx.png" group-title="PeoTV Local",Videsa 9-11
 https://live.peotv.com/bpk-tv/209/output/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="https://live.alkuppiya.com/assets/media/logos/al-logo.png" group-title="PeoTV",AL Kuppiya
+#EXTINF:-1 tvg-id="94" tvg-logo="https://live.alkuppiya.com/assets/media/logos/al-logo.png" group-title="PeoTV Local",AL Kuppiya
 https://live.peotv.com/bpk-tv/210/output/index.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV",Line Test
+#EXTINF:-1 tvg-id="98" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV Local",Line Test
 https://live.peotv.com/bpk-tv/151/output/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV",Test
+#EXTINF:-1 tvg-id="99" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV Local",Test
 https://live.peotv.com/bpk-tv/301/output/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV",test2
+#EXTINF:-1 tvg-id="100" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV Local",test2
 https://live.peotv.com/bpk-tv/220/output/index.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV",test3
+#EXTINF:-1 tvg-id="101" tvg-logo="https://seeklogo.com/images/S/sltmobitel-logo-CFFB8717C5-seeklogo.com.png" group-title="PeoTV Local",test3
 https://live.peotv.com/bpk-tv/241/output/index.m3u8
